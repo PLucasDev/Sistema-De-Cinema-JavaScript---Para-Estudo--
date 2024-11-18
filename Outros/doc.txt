@@ -1,0 +1,11 @@
+Crie um array chamado numeros com pelo menos 10 números inteiros, incluindo números positivos e negativos.
+
+Usando um loop for, percorra o array numeros e:
+
+Some todos os números positivos.
+Conte quantos números negativos existem no array.
+Após o loop, exiba no console:
+
+A soma de todos os números positivos.
+A quantidade de números negativos.
+Desafio extra: Encontre o maior número presente no array e exiba-o no console.

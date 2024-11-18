@@ -1,0 +1,8 @@
+1. Soma de Elementos em um Array
+Crie uma função que recebe um array de números e retorna a soma de todos os elementos. Isso ajudará você a praticar a iteração sobre um array e o uso de variáveis acumuladoras.
+
+2. Filtrar Números Pares
+Crie uma função que recebe um array de números e retorna um novo array contendo apenas os números pares. Isso ajudará a praticar o uso de métodos como filter.
+
+3. Inverter um Array
+Crie uma função que recebe um array e retorna um novo array com os elementos na ordem inversa. Isso pode ser feito com um laço ou utilizando o método reverse(). O desafio é fazer a solução sem usar reverse().

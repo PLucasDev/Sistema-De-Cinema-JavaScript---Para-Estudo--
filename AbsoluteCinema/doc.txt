@@ -1,0 +1,3 @@
+Sistema de cinema.
+Onde se vai selecionar o filme, horarios disponivels, e cadeiras.
+Mostrando quais cadeiras estão disponiveis, quais não estão, quais são cadeiras para pessoas especiais.
