@@ -6,3 +6,5 @@ Crie uma função que recebe um array de números e retorna um novo array conten
 
 3. Inverter um Array
 Crie uma função que recebe um array e retorna um novo array com os elementos na ordem inversa. Isso pode ser feito com um laço ou utilizando o método reverse(). O desafio é fazer a solução sem usar reverse().
+
+00. Teste GitHub
