@@ -1,3 +1,5 @@
 Sistema de cinema.
 Onde se vai selecionar o filme, horarios disponivels, e cadeiras.
 Mostrando quais cadeiras estão disponiveis, quais não estão, quais são cadeiras para pessoas especiais.
+
+// includes = Verifica se o valor passado pode ser encontrado em uma string ou array. retornando true ou false
